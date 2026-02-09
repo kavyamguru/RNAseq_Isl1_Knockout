@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "RNAseq_Isl1_Knockout"
+message: "If you use this project, please cite this repository."
+type: software
+authors:
+  - family-names: "G"
+    given-names: "Kavya"
+repository-code: "https://github.com/kavyamguru/RNAseq_Isl1_Knockout"
